@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Roboto:ital,wght@1,300&display=swap");
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+  text-align: center;
+  letter-spacing: 8px;
+}
+
+a {
+  font-weight: bolder;
+  color: rgb(48, 48, 48);
+  text-decoration: none;
+}
+
+p {
+  color: darkgrey;
+}
